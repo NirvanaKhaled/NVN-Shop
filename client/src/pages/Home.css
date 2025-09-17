@@ -1,0 +1,23 @@
+/* Home.css */
+.container {
+    display: flex;
+  }
+  
+  .main {
+    margin-left: 200px;
+    padding: 20px;
+  }
+  
+  .main h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 10px;    /* distance from the top */
+    left: 20px;  /* distance from the right */
+  }
+  
+  .main p {
+    font-size: 1.2rem;
+    color: #444;
+  }
+  
